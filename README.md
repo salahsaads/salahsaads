@@ -1,98 +1,177 @@
-<h2 align="left">Hi 👋! My name is Salah Saad and I'm a Flutter Developer from Mansoura</h2>
-
-
-###
+# Hi there 👋, I'm Salah Saad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahsaads&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salahsaads&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Flutter+Developer+%7C+Mobile+App+Enthusiast;Building+Beautiful+Cross-Platform+Apps;Passionate+About+Clean+Code+%26+UI%2FUX" alt="Typing SVG" />
 </div>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=salahsaads&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/salahsaads?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
-<img align="right" height="150" src=""  />
+---
+
+## 🚀 About Me
+
+```dart
+class SalahSaad extends FlutterDeveloper {
+  final String location = "Mansoura, Egypt";
+  final String currentFocus = "Building scalable mobile applications";
+  final List<String> expertise = ["Flutter", "Dart", "Mobile UI/UX"];
+  
+  void introduce() {
+    print("Passionate Flutter developer creating seamless mobile experiences");
+    print("I transform ideas into beautiful, performant cross-platform apps");
+  }
+  
+  List<String> getDailyRoutine() {
+    return [
+      "☕ Coffee",
+      "💻 Code Flutter apps",
+      "🎨 Design beautiful UIs",
+      "📚 Learn new technologies",
+      "🔄 Repeat"
+    ];
+  }
+}
+```
+
+- 🔭 **Currently working on:** Advanced Flutter projects with Firebase integration
+- 🌱 **Learning:** Advanced state management (Bloc, Riverpod), Clean Architecture
+- 💡 **Interests:** Mobile app development, UI/UX design, performance optimization
+- 🎯 **Goal:** Contribute to open-source Flutter packages and build impactful apps
+- ⚡ **Fun fact:** I believe good UI/UX can change the world, one pixel at a time
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💙 Core Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter" title="Flutter" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="Dart" title="Dart" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" title="Firebase" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+</div>
+
+### 🔧 Additional Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" title="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++" title="C++" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="35" alt="Android Studio" title="Android Studio" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code" title="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="Figma" title="Figma" />
+</div>
+
+### 🎯 Expertise Areas
+- **State Management:** Provider, Bloc, Riverpod, GetX
+- **Backend Integration:** REST APIs, Firebase, GraphQL
+- **Architecture:** Clean Architecture, MVVM, MVC
+- **Database:** SQLite, Hive, Shared Preferences
+- **Tools:** Git, GitHub Actions, Firebase Console, Postman
+
+---
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=salahsaads&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salahsaads&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" height="170" alt="Top Languages" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salahsaads&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salahsaads&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🏆 GitHub Trophies
 
-###
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salahsaads&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+## 💼 Featured Projects
+
+> 🚧 **Coming Soon:** Showcase of my best Flutter applications
+
+<!-- 
+Uncomment and update when you have projects to showcase:
+
+### 📱 [Project Name](link)
+Brief description of your amazing Flutter app
+- **Tech Stack:** Flutter, Firebase, Bloc
+- **Features:** Feature 1, Feature 2, Feature 3
+
+### 📱 [Another Project](link)
+Brief description of another awesome app
+- **Tech Stack:** Flutter, REST API, Provider
+- **Features:** Feature 1, Feature 2, Feature 3
+-->
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/salahsaads" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@salahsaads" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://twitter.com/salahsaads" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/salahsaads" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/salahsaads" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Facebook" />
+  </a>
 </div>
 
-###
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/salahsaads/salahsaads/output/snake.svg" alt="Snake animation" />
+## 💭 Quote of the Day
 
-###
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/salahsaads/salahsaads/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  
+  ### ⭐️ From [salahsaads](https://github.com/salahsaads) with 💙
+  
+  **"Code is like humor. When you have to explain it, it's bad." – Cory House**
+</div>
