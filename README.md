@@ -117,19 +117,25 @@ class SalahSaad {
 
 ---
 
-## ✦ FEATURED PROJECTS
+## ✦ A PRAYER 🤲
 
 <div align="center">
 
-<!-- Replace with your real projects -->
+<br/>
 
-| 📱 Project | 🛠 Stack | 📝 Description | 🔗 |
-|:----------:|:--------:|:--------------:|:--:|
-| Coming Soon | Flutter + Firebase | 🚧 In Development | — |
-| Coming Soon | Flutter + Bloc | 🚧 In Development | — |
-| Coming Soon | Flutter + REST API | 🚧 In Development | — |
-
-> 🔥 **Projects dropping soon** — Follow to stay updated!
+<table align="center" border="0">
+  <tr>
+    <td align="center">
+      <br/><br/>
+      <h2>﴿ رَبِّ إِنِّي لِمَا أَنزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ ﴾</h2>
+      <br/>
+      <b>— سورة القصص، آية ٢٤</b>
+      <br/><br/>
+      <i>"My Lord, indeed I am, for whatever good You would send down to me, in need."</i>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
